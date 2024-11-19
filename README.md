@@ -20,7 +20,7 @@ Man kann auf ältere Versionen zugreifen und sehen wer was verändert hat.
 6. git pull
 	- dieser Befehl erlaubt dem Benutzer die Veräderungen, welche auf GitHub erstellt wurden, auf den Desktop zu übertragen
 
-	'''
+	```
 	git config --global user.email/user.name
 	git clone https://github.com/user/repository/.../...
 	git status
@@ -28,4 +28,4 @@ Man kann auf ältere Versionen zugreifen und sehen wer was verändert hat.
 	git push
 	git pull
 	git add .
-	'''
+	```
