@@ -34,4 +34,4 @@ Man kann auf ältere Versionen zugreifen und sehen wer was verändert hat.
 	- Dieser Befehl speichert alle Veränderungen in einer Zwischenablage ab. Damit kann man später einfacher die Veränderungen commiten und pushen
 	
 
-[Hier] (https://github.com/jevshyl/GitUebung/blob/main/branches.md) findet man Informationen über Branches
+[Hier](https://github.com/jevshyl/GitUebung/blob/main/branches.md) findet man Informationen über Branches
