@@ -1,5 +1,5 @@
 # GitUebung
-## Was ist Gitm was kann man damit machen und von wem wurde es erfunden?
+## Was ist Git, was kann man damit machen und von wem wurde es erfunden?
 
 Git wurde von Linus Torvalds erfunden. Es ist eine Plattform welche einem ermöglicht verschiedene Codes und Projekte zu speichern, verwalten und ändern. 
 Man kann mit mehreren Personen an einem Projekt über Git arbeiten wobei alle Mitglieder Veränderungen am Code vornehmen können. 
@@ -20,7 +20,7 @@ Man kann auf ältere Versionen zugreifen und sehen wer was verändert hat.
 6. git pull
 	- dieser Befehl erlaubt dem Benutzer die Veräderungen, welche auf GitHub erstellt wurden, auf den Desktop zu übertragen
 
-	
+	'''
 	git config --global user.email/user.name
 	git clone https://github.com/user/repository/.../...
 	git status
@@ -28,4 +28,4 @@ Man kann auf ältere Versionen zugreifen und sehen wer was verändert hat.
 	git push
 	git pull
 	git add .
-	
+	'''
