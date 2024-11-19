@@ -32,6 +32,8 @@ git add .
 	- dieser Befehl erlaubt dem Benutzer die Veräderungen, welche auf GitHub erstellt wurden, auf den Desktop zu übertragen
 7. git add .
 	- Dieser Befehl speichert alle Veränderungen in einer Zwischenablage ab. Damit kann man später einfacher die Veränderungen commiten und pushen
-	
+
+
+## Branches
 
 [Hier](https://github.com/jevshyl/GitUebung/blob/main/branches.md) findet man Informationen über Branches
