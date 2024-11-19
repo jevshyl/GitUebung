@@ -1,3 +1,5 @@
 # Branches
 
-## Was sind Branches und wie geht man mit ihnen um?
+## Was sind Branches?
+
+## Wie geht man mit Branches um?

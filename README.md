@@ -8,15 +8,15 @@ Man kann auf ältere Versionen zugreifen und sehen wer was verändert hat.
 
 ## Wichtige Befehle in Git
 
-	```
-	git config --global user.email/user.name
-	git clone https://github.com/user/repository/.../...
-	git status
-	git commit -m"Was gemacht wurde"
-	git push
-	git pull
-	git add .
-	```
+```
+git config --global user.email/user.name
+git clone https://github.com/user/repository/.../...
+git status
+git commit -m"Was gemacht wurde"
+git push
+git pull
+git add .
+``` 
 
 1. git config --global user.email/user.name
 	- mit diesem Befehl kann man die Username und User Email Einstellungen ändern. 
