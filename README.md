@@ -7,6 +7,17 @@ Man kann auf ältere Versionen zugreifen und sehen wer was verändert hat.
 
 
 ## Wichtige Befehle in Git
+
+	```
+	git config --global user.email/user.name
+	git clone https://github.com/user/repository/.../...
+	git status
+	git commit -m"Was gemacht wurde"
+	git push
+	git pull
+	git add .
+	```
+
 1. git config --global user.email/user.name
 	- mit diesem Befehl kann man die Username und User Email Einstellungen ändern. 
 2. git clone https://github.com/user/repository/.../...
@@ -19,13 +30,5 @@ Man kann auf ältere Versionen zugreifen und sehen wer was verändert hat.
 	- dieser Befehl erlaut dem Benutzer die Veränderungen, welche auf dem Desktop erstellt wurden, auf GitHub selber zu übertragen
 6. git pull
 	- dieser Befehl erlaubt dem Benutzer die Veräderungen, welche auf GitHub erstellt wurden, auf den Desktop zu übertragen
-
-	```
-	git config --global user.email/user.name
-	git clone https://github.com/user/repository/.../...
-	git status
-	git commit -m"Was gemacht wurde"
-	git push
-	git pull
-	git add .
-	```
+7. git add .
+	- Dieser Befehl speichert alle Veränderungen in einer Zwischenablage ab. Damit kann man später einfacher die Veränderungen commiten und pushen
