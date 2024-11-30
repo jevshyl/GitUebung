@@ -9,6 +9,13 @@ Wenn man in einem Team arbeitet, kann man an verschiedenen Branches arbeiten und
 
 ### Git Befehle
 
+```
+git branch <branch-name>
+git checkout <branch-name> 
+git branch
+git merge main
+git branch -d <branch-name>
+```
 1. git branch <branch-name> 
 	- Branch erstellen
 2. git checkout <branch-name> 
