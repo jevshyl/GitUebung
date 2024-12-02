@@ -34,6 +34,10 @@ git add .
 	- Dieser Befehl speichert alle Veränderungen in einer Zwischenablage ab. Damit kann man später einfacher die Veränderungen commiten und pushen
 
 
+
+## Review
+Mein Dokument wurde von Masumeh Amiri angeschuat und geklont.
+Ihr GitHub repository befindet sich [hier](https://github.com/masumeh-amiri/GitUebung/blob/main/README.md)
 ## Branches
 
 [Hier](https://github.com/jevshyl/GitUebung/blob/main/branches.md) findet man Informationen über Branches
