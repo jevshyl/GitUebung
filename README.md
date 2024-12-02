@@ -35,9 +35,6 @@ git add .
 
 
 
-## Review
-Mein Dokument wurde von Masumeh Amiri angeschuat und geklont.
-Ihr GitHub repository befindet sich [hier](https://github.com/masumeh-amiri/GitUebung/blob/main/README.md)
 ## Branches
 
 [Hier](https://github.com/jevshyl/GitUebung/blob/main/branches.md) findet man Informationen über Branches
@@ -45,3 +42,8 @@ Ihr GitHub repository befindet sich [hier](https://github.com/masumeh-amiri/GitU
 
 ## Links
 [Hier](https://github.com/jevshyl/GitUebung/blob/main/links.md) findet man das Dokument links.md
+
+
+## Review
+Mein Dokument wurde von Masumeh Amiri angeschuat und geklont.
+Ihr GitHub repository befindet sich [hier](https://github.com/masumeh-amiri/GitUebung/blob/main/README.md)
