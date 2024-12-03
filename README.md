@@ -46,4 +46,5 @@ git add .
 
 ## Review
 Mein Dokument wurde von Masumeh Amiri am 02.12.2024 angeschaut und geklont.
+Abigail Llanque Romero am 03.12.2024 kommentiert.
 Ihr GitHub repository befindet sich [hier](https://github.com/masumeh-amiri/GitUebung/blob/main/README.md)
